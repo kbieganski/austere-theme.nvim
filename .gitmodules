@@ -1,0 +1,3 @@
+[submodule "austere-theme"]
+	path = austere-theme
+	url = ../austere-theme
